@@ -1,0 +1,21 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Thu Oct 17 17:10:44 IST 2024,
+End Date   :  Thu Oct 17 17:19:15 IST 2024,
+Total Duration :0 Hours 8 Minutes 30 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: BorrowerWithSpouse_AND_CosignerWithSpouse_AZ_Parent,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS-SEB-03:Borrower with Borrower Spouse and Cosigner with Cosigner Spouse 
+end to end scenario_AZ_Parent With TestData :S103:TS-SEB-03,Fail,Failed TestCase :TS-SEB-03:Borrower with Borrower Spouse and Cosigner with Cosigner Spouse 
+end to end scenario_AZ_Parent With TestData :S103:TS-SEB-03<br><table border="1"> <tr> <th>StepId</th> <th>Action Name</th> <th>Package Name</th> <th>Custom Method Name</th></tr><tr><td>10</td><td>Borrower with Borrower Spouse and Cosigner with Cosigner Spouse 
+end to end scenario_AZ_Parent >> Complete the Email Token Verification</td><td>com.seb.util.BorrowerFlow</td><td>closeWindow</td></tr></table>
+invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '3070-TI12074', ip: '10.131.147.54', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.59, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\VINOTH~1.N\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55202}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a40695d070dd0b54b875a04fffdedbbc<br> Duration>0 Hours 8 Minutes 28 Seconds

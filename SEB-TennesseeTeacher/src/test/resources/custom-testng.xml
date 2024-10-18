@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <suite name="Default suite" preserve-order="false">
+
+
+<test verbose="2" name="Firefox Tests" preserve-order="false">
+	<parameter name="browser" value="firefox"/>
+	
+<classes>
+		<class name="com.tavant.kwutils.MyTestCaseExecuter"/>
+	</classes>
+</test> 
+
+
+<test verbose="2" name="Chrome Tests" preserve-order="false">
+	<parameter name="browser" value="chrome"/>
+	
+<classes>
+		<class name="com.tavant.kwutils.MyTestCaseExecuter"/>
+	</classes>
+</test> 
+
+
+<listeners>
+ <listener class-name="com.tavant.utils.TestReporter"/>
+ <listener class-name="com.tavant.utils.seqController"/>
+</listeners>
+</suite>

@@ -1,0 +1,14 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Fri Sep 27 00:57:25 IST 2024,
+End Date   :  Fri Sep 27 01:01:48 IST 2024,
+Total Duration :0 Hours 4 Minutes 23 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: BorrowerWithSpouse_AND_CosignerWithSpouse_AZ_Student,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS-SEB-01:Borrower with Borrower Spouse and Cosigner with Cosigner Spouse 
+end to end scenario_Cosigner question_Yes_Get My Rate screen_AZ_Student With TestData :S101:TS-SEB-01,Fail,Failed TestCase :TS-SEB-01:Borrower with Borrower Spouse and Cosigner with Cosigner Spouse 
+end to end scenario_Cosigner question_Yes_Get My Rate screen_AZ_Student With TestData :S101:TS-SEB-01<br>Not able to find Element get_my_rate_rbtn<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>48</td> <td>SEB_In-school Student Loan_Cosigner_Yes_Rent</td>  <td>Fire_click</td>  <td>get_my_rate_rbtn</td><td></td> </tr> 	</table><br><br> Duration>0 Hours 4 Minutes 21 Seconds

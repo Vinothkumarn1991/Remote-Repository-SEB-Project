@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Nov 15 12:10:16 IST 2023,
+End Date   :  Wed Nov 15 12:19:16 IST 2023,
+Total Duration :0 Hours 9 Minutes 0 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: Borrower and Spouse_AZ_With TENNESSEE STATE UNIVERSITY - No Income Limit_Undergraduate,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS_08:Borrower with Spouse End to End Sceanrio - AZ_TENNESSEE STATE UNIVERSITY_Undergraduate With TestData :4:TS_08,Fail,Failed TestCase :TS_08:Borrower with Spouse End to End Sceanrio - AZ_TENNESSEE STATE UNIVERSITY_Undergraduate With TestData :4:TS_08<br>Not able to find Element checkBorrowerStatus_LBL<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>12</td> <td>Check Status should be change to Approved ACA Sent</td>  <td>Fire_storeValue</td>  <td>checkBorrowerStatus_LBL</td><td>var_checkBorrowerStatus_LBL</td> </tr> 	</table><br><br> Duration>0 Hours 8 Minutes 59 Seconds

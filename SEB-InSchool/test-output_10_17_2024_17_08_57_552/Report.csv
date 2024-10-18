@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Thu Oct 17 17:04:18 IST 2024,
+End Date   :  Thu Oct 17 17:08:57 IST 2024,
+Total Duration :0 Hours 4 Minutes 39 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: SoftPull_AALetter_InschoolStudentLoan_RateScreen,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS-SEB-05:Borrower (Student), hardknock out at soft pool stage With TestData :S105:TS-SEB-05,Fail,Failed TestCase :TS-SEB-05:Borrower (Student), hardknock out at soft pool stage With TestData :S105:TS-SEB-05<br>Not able to find Element go_to_dashboard_btn<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>2</td> <td>SEB_Adverse Action</td>  <td>Fire_click</td>  <td>go_to_dashboard_btn</td><td></td> </tr> 	</table><br><br> Duration>0 Hours 4 Minutes 36 Seconds

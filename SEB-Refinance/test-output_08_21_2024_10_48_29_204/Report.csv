@@ -1,0 +1,29 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Aug 21 10:46:27 IST 2024,
+End Date   :  Wed Aug 21 10:48:28 IST 2024,
+Total Duration :0 Hours 2 Minutes 1 Seconds,
+Total Pass : 0,
+Total Fail : 3,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: TestRefi1,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS-SEB-01:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01,Fail,Failed TestCase :TS-SEB-01:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01<br>invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '3070-TI12074', ip: '10.131.147.54', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\VINOTH~1.N\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a7b10db9e62b85ca4a0add1d41a2564<br> Duration>0 Hours 0 Minutes 27 Seconds
+TS-SEB-02:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01,Fail,Failed TestCase :TS-SEB-02:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01<br>invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '3070-TI12074', ip: '10.131.147.54', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\VINOTH~1.N\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 13e9a9317a0bff1d1ec1e853acc5c8ae<br> Duration>0 Hours 0 Minutes 44 Seconds
+TS-SEB-03:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01,Fail,Failed TestCase :TS-SEB-03:Borrower end to end scenario when Reference and Employment is 'Yes' -till loan approval from underwriter- Student-  Fixed rate With TestData :Testvi:TS-SEB-01<br>invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '3070-TI12074', ip: '10.131.147.54', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\VINOTH~1.N\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d249be214ae3aaee7c411f3e889a6934<br> Duration>0 Hours 0 Minutes 46 Seconds

@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Thu Sep 26 16:10:01 IST 2024,
+End Date   :  Thu Sep 26 16:12:20 IST 2024,
+Total Duration :0 Hours 2 Minutes 18 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: Borrower and Spouse_AZ_With Lee University - Max Income Limit_Graduate,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS_01:Borrower with Spouse End to End Sceanrio - AZ_Lee University_Graduate With TestData :1:TS_01,Fail,Failed TestCase :TS_01:Borrower with Spouse End to End Sceanrio - AZ_Lee University_Graduate With TestData :1:TS_01<br>Not able to find Element get_my_rate_rbtn<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>39</td> <td>SEB_In-school Student Loan</td>  <td>Fire_click</td>  <td>get_my_rate_rbtn</td><td></td> </tr> 	</table><br><br> Duration>0 Hours 2 Minutes 17 Seconds

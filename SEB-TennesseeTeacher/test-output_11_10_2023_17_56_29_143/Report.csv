@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Fri Nov 10 17:51:11 IST 2023,
+End Date   :  Fri Nov 10 17:56:28 IST 2023,
+Total Duration :0 Hours 5 Minutes 17 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: Borrower and Spouse_AZ_With UNIVERSITY OF TENNESSEE CHATTANOOGA - Max Income Limit_Graduate,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS_02:Borrower with Spouse End to End Sceanrio - AZ_UNIVERSITY OF TENNESSEE CHATTANOOGA_Graduate With TestData :2:TS_02,Fail,Failed TestCase :TS_02:Borrower with Spouse End to End Sceanrio - AZ_UNIVERSITY OF TENNESSEE CHATTANOOGA_Graduate With TestData :2:TS_02<br>Element Not found: Action:click  ,<b>Element:</b>Add_doc Value: <br> Duration>0 Hours 5 Minutes 16 Seconds

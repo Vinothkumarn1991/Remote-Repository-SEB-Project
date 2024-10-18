@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Thu Sep 26 16:38:20 IST 2024,
+End Date   :  Thu Sep 26 16:41:00 IST 2024,
+Total Duration :0 Hours 2 Minutes 39 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: HardPull_AALetter_InschoolStudentLoan,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS-SEB-06:Borrower (Student), hardknock out at hard pool (Authorize) With TestData :S106:TS-SEB-06,Fail,Failed TestCase :TS-SEB-06:Borrower (Student), hardknock out at hard pool (Authorize) With TestData :S106:TS-SEB-06<br>Not able to find Element get_my_rate_rbtn<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>46</td> <td>SEB_In-school Student Loan_Cosigner_No</td>  <td>Fire_click</td>  <td>get_my_rate_rbtn</td><td></td> </tr> 	</table><br><br> Duration>0 Hours 2 Minutes 38 Seconds

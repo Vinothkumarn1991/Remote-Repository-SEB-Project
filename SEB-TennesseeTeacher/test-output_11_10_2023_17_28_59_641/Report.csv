@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Fri Nov 10 17:25:24 IST 2023,
+End Date   :  Fri Nov 10 17:28:59 IST 2023,
+Total Duration :0 Hours 3 Minutes 35 Seconds,
+Total Pass : 0,
+Total Fail : 1,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: Borrower and Spouse_AZ_With Lee University - Max Income Limit_Graduate,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS_01:Borrower with Spouse End to End Sceanrio - AZ_Lee University_Graduate With TestData :1:TS_01,Fail,Failed TestCase :TS_01:Borrower with Spouse End to End Sceanrio - AZ_Lee University_Graduate With TestData :1:TS_01<br>Not able to find Element borrower_YES_other_first_name_radiobtn<br> <b>Step Details:</b> <table border="1"> <tr> <th width=5%>StepId</th>  <th width=45%>Test Step Description</th>  <th width=30%>Action/Command</th> <th width=10%>Target Element</th> <th width=10%>Data</th></tr><tr><td>16</td> <td>Fill basic information section on the borrower screen >>  step >> 16</td>  <td>Fire_clearAndType</td>  <td>borrower_YES_other_first_name_radiobtn</td><td>smith</td> </tr> 	</table><br><br> Duration>0 Hours 3 Minutes 34 Seconds

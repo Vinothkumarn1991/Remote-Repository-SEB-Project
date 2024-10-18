@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Nov 15 12:36:55 IST 2023,
+End Date   :  Wed Nov 15 12:43:56 IST 2023,
+Total Duration :0 Hours 7 Minutes 1 Seconds,
+Total Pass : 1,
+Total Fail : 0,
+Executed By : 3070-TI12074/vinothkumar.n/OS-Windows 10,
+Groups: Borrower and Spouse_AZ_With TENNESSEE STATE UNIVERSITY - No Income Limit_Undergraduate,,
+URL :https://finstudentqa.tavant.com/seb/,
+Browser : Chrome 
+TS_08:Borrower with Spouse End to End Sceanrio - AZ_TENNESSEE STATE UNIVERSITY_Undergraduate With TestData :4:TS_08,Pass,Duration: 0 Hours 7 Minutes 0 Seconds
